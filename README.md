@@ -11,4 +11,6 @@ During my senior year at Univeristy of South Florida, I was a member of the USF 
 * **Goal**: Create a ML Model that can accurately predict wether an IP address trying to access a Cloudtrail Instance is an attacker or not.
 * **Role**: Data Engineer/Analyst
 
-There are three files in this repository. They house my own analysis and data engineering that was done for the project. Please feel free to read through them. Thank you!
+There are three files in this repository. They house my own original data analysis and engineering that was done for the project. 
+
+Please feel free to read through them and use any part of the code for your own work.
